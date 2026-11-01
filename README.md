@@ -1,8 +1,6 @@
 # Hi, I'm Ivaylo 👋
 
-Software engineering student at LUT University in Lahti, Finland. I build AI-first:
-most of my code is written with Claude Code, while I decide what gets built, review
-what comes back, and test it until it works.
+Software engineering student at LUT University in Lahti, Finland. 
 
 ## What I've built
 
